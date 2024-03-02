@@ -1,0 +1,5 @@
+{
+  "**/*.ts": [
+    "bunx prettier --parser typescript --write"
+  ]
+}
